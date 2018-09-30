@@ -1,4 +1,4 @@
-# Security-Batch-File
+# Security-Tool-Batch-File
 
 This batch file is collection of usefull features
 
